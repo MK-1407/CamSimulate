@@ -93,7 +93,6 @@ def main(stdscr):
     curses.init_pair(1, curses.COLOR_BLACK, curses.COLOR_WHITE)
 
     stdscr.clear()
-    stdscr.addstr(0, 0, "CamSimulate \n Press Enter to continue")
     stdscr.refresh()
     stdscr.getch()
 
