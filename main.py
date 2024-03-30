@@ -2,6 +2,9 @@ import subprocess
 import os
 import curses
 
+if not any(os.path.exists('/dev/video' + str(i)) for i in range(10)):
+    subprocess.call('sudo modprobe v4l2loopback'.split())
+
 def list_video_devices():
     devices = []
     for file in os.listdir('/dev'):
@@ -95,11 +98,6 @@ def main(stdscr):
     stdscr.clear()
     stdscr.refresh()
     stdscr.getch()
-
-    # Load v4l2loopback if not already loaded
-    if not any(os.path.exists('/dev/video' + str(i)) for i in range(10)):
-        subprocess.call('sudo modprobe v4l2loopback'.split())
-
     # Select video device
     selected_device = select_device(stdscr)
 
