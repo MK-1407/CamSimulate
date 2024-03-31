@@ -18,6 +18,11 @@
    ```
    python3 main.py
    ```
+4. Choose Video Device.
+5. Choose file or Choose URL.
+> [!WARNING]
+> The URL of the video should be direct URL not of the page where you saw video. Like:- https://example.com/video_44.mp4 ✅️ \n https://youtube.com/this-awesome-video
+6. Use the Camera on any site you want.
 > [!TIP]
 > If you are using a local file then it should be in same directory as the directory from where program is executed.
 ## Upcoming Feature and Changes
