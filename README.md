@@ -18,6 +18,7 @@
    ```
    python3 main.py
    ```
+> [!TIP]
 > If you are using a local file then it should be in same directory as the directory from where program is executed.
 ## Upcoming Feature and Changes
 - [x] TUI menu.
