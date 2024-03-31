@@ -3,6 +3,7 @@
 - It uses v4l2loopback for creating a Virtual Video device if no physical device is available.
 - It uses ffmpeg to stream the selected video to the video device either from local file or a URL.
 
+> [!NOTE]
 > It works only for UNIX-like operating system.
 ## Usage
 1. Clone this repository.
