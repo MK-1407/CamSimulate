@@ -6,7 +6,7 @@
 > [!NOTE]
 > It works only for UNIX-like operating system.
 ## Usage
-1. Clone this repository.
+1. ### Clone this repository.
    ```
    git clone https://github.com/MK-1407/CamSimulate.git
    ```
