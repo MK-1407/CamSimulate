@@ -10,21 +10,21 @@
    ```
    git clone https://github.com/MK-1407/CamSimulate.git
    ```
-2. Install v4l2loopback.
+2. ### Install v4l2loopback.
    ```
    sudo apt install v4l2loopback-dkms
    ```
-3. Execute the main.py file.
+3. ### Execute the main.py file.
    ```
    python3 main.py
    ```
-4. Choose Video Device.
-5. Choose file or Choose URL.
+4. ### Choose Video Device.
+5. ### Choose file or Choose URL.
 > [!WARNING]
 > The URL of the video should be direct URL not of the page where you saw video. 
 > example.com/video_44.mp4 ✅️  
 > youtube.com/this-awesome-video ❌️
-6. Use the Camera on any site you want.
+6. ### Use the Camera on any site you want.
 > [!TIP]
 > If you are using a local file then it should be in same directory as the directory from where program is executed.
 ## Upcoming Feature and Changes
