@@ -35,3 +35,5 @@
 - [ ] New and Enhanced Menu.
 - [ ] Windows Support.
 - [ ] Youtube Video Support.
+- [ ] Virtual Audio Support.
+- [ ] Android as Source Support.
