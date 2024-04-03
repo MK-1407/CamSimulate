@@ -28,8 +28,8 @@
 > [!TIP]
 > If you are using a local file then it should be in same directory as the directory from where program is executed.
 ## Upcoming Feature and Changes
-- ✅️ TUI menu. - Done
-- ✅️ Video input from URL. - Done
+- ✅️ *~~TUI menu.~~* - Done
+- ✅️ *~~Video input from URL.~~* - Done
 - [ ] Selecting Video Resolution.
 - [ ] Whole FileSystem Access.
 - [ ] New and Enhanced Menu.
