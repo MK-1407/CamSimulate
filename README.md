@@ -31,8 +31,8 @@
 - ✅️ *~~TUI menu.~~* - Done
 - ✅️ *~~Video input from URL.~~* - Done
 - [ ] Selecting Video Resolution.
-- [ ] Whole FileSystem Access.
-- [ ] New and Enhanced Menu.
+- ✅️ *~~Whole FileSystem Access.~~* - Done
+- ✅️ *~~New and Enhanced Menu.~~* - Done
 - [ ] Windows Support.
 - [ ] Youtube Video Support.
 - [ ] Virtual Audio Support.
