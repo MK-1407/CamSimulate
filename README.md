@@ -1,3 +1,4 @@
+### > [!NOTE] It is not actively maintained.
 # 📷 CamSimulate
 - CamSimulate is a python application which stream Videos from local file or from a URL to video devices of your device.
 - It uses v4l2loopback for creating a Virtual Video device if no physical device is available.
