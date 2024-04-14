@@ -24,7 +24,7 @@
 - ### Choose file or Choose URL.
 > [!WARNING]
 > The URL of the video should be direct URL not of the page where you saw video. 
-> example.com/video_44.mp4 ✅️  
+> example.com/video_422mp4 ✅️  
 > youtube.com/this-awesome-video ❌️
 - ### Use the Camera on any site you want.
 > [!TIP]
